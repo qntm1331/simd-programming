@@ -469,3 +469,43 @@ FodyWeavers.xsd
 *.msix
 *.msm
 *.msp
+
+# Visual Studio
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Visual Studio 빌드 결과
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+
+# Visual Studio 캐시/옵션
+.vs/
+*.opensdf
+*.sdf
+*.VC.db
+*.VC.VC.opendb
+
+# 빌드 결과물
+*.exe
+*.dll
+*.obj
+*.pdb
+*.ilk
+*.iobj
+*.ipdb
